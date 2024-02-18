@@ -1,0 +1,29 @@
+{
+  "name": "food-app",
+  "version": "1.0.0",
+  "description": "These is FoodApp",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/ESHWARGUNDLA/Food-app.git)"
+  },
+  "keywords": [],
+  "author": "Eshwar Gundla",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.1"
+  },
+  "browserList": [
+    "Last 2 version"
+  ]
+}
